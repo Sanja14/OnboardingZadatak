@@ -1,0 +1,75 @@
+/**** Google Roboto Font Family *****/
+
+/* Thin 100 */
+@font-face {
+    font-family: Roboto-Thin;
+    src: url('./assets/fonts/Roboto/Roboto-Thin.ttf');
+}
+
+/* Thin 100 Italic */
+@font-face {
+    font-family: Roboto-ThinItalic;
+    src: url('./assets/fonts/Roboto/Roboto-ThinItalic.ttf');
+}
+
+/* Light 300 */
+@font-face {
+    font-family: Roboto-Light;
+    src: url('./assets/fonts/Roboto/Roboto-Light.ttf');
+}
+
+/* Light 300 Italic */
+@font-face {
+    font-family: Roboto-LightItalic;
+    src: url('./assets/fonts/Roboto/Roboto-LightItalic.ttf');
+}
+
+/* Regular 400 */
+@font-face {
+    font-family: Roboto-Regular;
+    src: url('./assets/fonts/Roboto/Roboto-Regular.ttf');
+}
+
+/* Regular 400 Italic */
+@font-face {
+    font-family: Roboto-RegularItalic;
+    src: url('./assets/fonts/Roboto/Roboto-Italic.ttf');
+}
+
+/* Medium 500 */
+@font-face {
+    font-family: Roboto-Medium;
+    src: url('./assets/fonts/Roboto/Roboto-Medium.ttf');
+}
+
+/* Medium 500 Italic */
+@font-face {
+    font-family: Roboto-MediumItalic;
+    src: url('./assets/fonts/Roboto/Roboto-MediumItalic.ttf');
+}
+
+/* Bold 700 */
+@font-face {
+    font-family: Roboto-Bold;
+    src: url('./assets/fonts/Roboto/Roboto-Bold.ttf');
+}
+
+/* Bold 700 Italic */
+@font-face {
+    font-family: Roboto-BoldItalic;
+    src: url('./assets/fonts/Roboto/Roboto-BoldItalic.ttf');
+}
+
+/* Black 900 */
+@font-face {
+    font-family: Roboto-Black;
+    src: url('./assets/fonts/Roboto/Roboto-Black.ttf');
+}
+
+/* Black 900 Italic */
+@font-face {
+    font-family: Roboto-BlackItalic;
+    src: url('./assets/fonts/Roboto/Roboto-BlackItalic.ttf');
+}
+
+/*********/

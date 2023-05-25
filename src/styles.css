@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('./fonts.css');
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-family: Roboto-Regular, Arial, Helvetica, sans-serif;
+}
